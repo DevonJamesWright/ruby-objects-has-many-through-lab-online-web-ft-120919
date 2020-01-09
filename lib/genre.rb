@@ -19,3 +19,4 @@ class Genre
   end 
 end 
 end 
+#This is just 2 sets of has many through, I figured it out with the musical ones, and should use those ones for reference
