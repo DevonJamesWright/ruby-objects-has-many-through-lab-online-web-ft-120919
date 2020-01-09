@@ -18,3 +18,4 @@ class Genre
     @@all
   end 
 end 
+end 
